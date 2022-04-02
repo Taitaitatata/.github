@@ -5,3 +5,4 @@
 |ステータス|言語ランキング|
 |-|-|
 |[![by anuraghazra](https://github-readme-stats.vercel.app/api?username=Taitaitatata&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/)|[![by anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=Taitaitatata&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+[![by anuraghazra](https://github-readme-stats.vercel.app/api?username=NekozounekoTEAM&show_icons=true)](https://github.com/anuraghazra/github-readme-stats/)|[![by anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=NekozounekoTEAM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
